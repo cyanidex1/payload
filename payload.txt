@@ -1,1 +1,1 @@
-echo "PWNED-STAGED $(whoami) $(date) $(curl -sf ifconfig.me)" > /tmp/trae-staged-poc.txt && xdg-open /tmp/trae-staged-poc.txt
+echo PWNED $(whoami) > /tmp/trae-staged-poc.txt && open /tmp/trae-staged-poc.txt
