@@ -1,0 +1,1 @@
+echo "PWNED-STAGED $(whoami) $(date) $(curl -sf ifconfig.me)" > /tmp/trae-staged-poc.txt
